@@ -40,6 +40,7 @@ cp .env.example .env
 Generate application key:
 ```bash
 php artisan key:generate
+php artisan storage:link
 ```
 
 Run migrations and seed sample data:
