@@ -11,7 +11,6 @@ Make sure you have the following installed:
 - PHP 8.2+
 - Composer
 - Node.js & npm
-- MySQL or PostgreSQL
 - Git
 
 ---
